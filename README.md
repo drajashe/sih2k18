@@ -9,15 +9,13 @@ Team – <b>Dark_Forest</b>
 KPIT: Innovation Award Winner, Smart India Hackathon, 2018
 Ministry of Environment, Forest and Climate Change
 
-<center>Team Members: </center>
+<b>Team Members:</b>
 
-Amartya Ranjan Saikia (<b>TL</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar
-
+Amartya Ranjan Saikia (<b>TL</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar;
 Assam Engineering College, Guwahati, India
 
-Team Mentors:
-Lakhya Jyoti Bora, Biju Pegu
-
+<b>Team Mentors:</b>
+Lakhya Jyoti Bora, Biju Pegu;
 Gratia Technology Pvt. Ltd.
 
 
