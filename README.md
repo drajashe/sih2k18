@@ -25,3 +25,13 @@ Gratia Technology Pvt. Ltd.
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/overview.JPG">
 
 We provided an end to end solution 
+
+
+# END-TO-END
+
+# DEEP LEARNING
+
+<h2> Object Detection </h2>
+
+    1. Real Time
+    2. Video Feed
