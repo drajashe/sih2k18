@@ -45,5 +45,9 @@ The output video in the Hackathon are: [Webcam](https://youtu.be/SJxoIHBeOB0) , 
 Several images of Guns, Poachers, Rangers were scraped from the internet and YOLOv2 was trained from scratch to detect the following object classes in the frames. Due to lack of data and time in the hackathon, high accuracy and confidence was not achieved.
 
 
+Wildlife Video Feed was fed to the layers of YOLO and animals / humans were tracked with high confidence in the wildlife. Some of the frames are :
 
-We trained several parts
+
+Also, We know that deep learning is mainly dependent on Data. Due to lack of Animal categories in COCO, very strong detection was not achieved. Imagenet has Animal categories and we differentiate it in the Image Classification section. The best strategy would be to form a huge dataset of animals only, this will help us classify the breeds and types as well.
+
+We also tried YOLO on Thermal, Night Vision, IR and Normal Video Feeds and the differences were astonishing. Please check <b>1:00</b> of this [video](https://youtu.be/sCrg1bD2Lno).
