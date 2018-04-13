@@ -4,11 +4,12 @@
 
 <img src = "https://github.com/SKKSaikia/sih2k18/blob/master/img/sih.jpg">
 
-Team – Dark_Forest
+Team – <b>Dark_Forest</b>
 KPIT: Innovation Award Winner, Smart India Hackathon, 2018
 Ministry of Environment, Forest and Climate Change
 
 <center>Team Members: </center>
+
 Amartya Ranjan Saikia (TL), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar
 Assam Engineering College, Guwahati, India
 
