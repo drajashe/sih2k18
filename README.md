@@ -31,7 +31,13 @@ We provided an end to end solution
 
 # DEEP LEARNING
 
-<h2> Object Detection </h2>
+<h2> ➊ Object Detection </h2>
 
     1. Real Time
     2. Video Feed
+    
+[YOLOv2](https://pjreddie.com/darknet/yolo/) trained on COCO was used for Object detection. [Darkflow](https://github.com/thtrieu/darkflow) which is a Tensorflow variant of [Darknet](https://github.com/pjreddie/darknet) was used to process the frames. Darknet is an open source neural network framework written in C and CUDA. 
+
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/yolo.JPG">
+
+We trained several parts
