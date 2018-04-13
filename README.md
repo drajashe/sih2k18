@@ -4,3 +4,8 @@
 + Problem statement: [A real time recording and monitoring of human activities and animal movements in Protected Areas](https://innovate.mygov.in/sih_ps/a-real-time-recording-and-monitoring-of-human-activities-and-animal-movements-in-protected-areas/)
 
 <img src = "https://github.com/SKKSaikia/sih2k18/blob/master/img/sih.jpg">
+
+# ABSTRACT
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/overview.JPG">
+
+We provided an end to end solution 
