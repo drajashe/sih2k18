@@ -36,8 +36,14 @@ We provided an end to end solution
     1. Real Time
     2. Video Feed
     
-[YOLOv2](https://pjreddie.com/darknet/yolo/) trained on COCO was used for Object detection. [Darkflow](https://github.com/thtrieu/darkflow) which is a Tensorflow variant of [Darknet](https://github.com/pjreddie/darknet) was used to process the frames. Darknet is an open source neural network framework written in C and CUDA. 
+[YOLOv2](https://pjreddie.com/darknet/yolo/) trained on [COCO](http://cocodataset.org) was used for Object detection. [Darkflow](https://github.com/thtrieu/darkflow) which is a Tensorflow variant of [Darknet](https://github.com/pjreddie/darknet) was used to process the frames. Darknet is an open source neural network framework written in C and CUDA. 
 
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/yolo.JPG">
+
+The output video in the Hackathon are: [Webcam](https://youtu.be/SJxoIHBeOB0) , [Mobile Camera](https://youtu.be/qkzmv4ny7VM)
+
+Several images of Guns, Poachers, Rangers were scraped from the internet and YOLOv2 was trained from scratch to detect the following object classes in the frames. Due to lack of data and time in the hackathon, high accuracy and confidence was not achieved.
+
+
 
 We trained several parts
