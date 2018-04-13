@@ -51,7 +51,12 @@ Also, We know that deep learning is mainly dependent on Data. Due to lack of Ani
 
 We also tried YOLO on Thermal, Night Vision, IR and Normal Video Feeds and the differences were astonishing. Please check <b>1:00</b> of this [video](https://youtu.be/sCrg1bD2Lno) to get a gist.
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/ewd2.jpg">
+
+Several frames of object localization and classification are being portrayed in the following frames.
+
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/thermal2.jpg">
+
+
 
 
 
