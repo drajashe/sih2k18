@@ -50,6 +50,7 @@ Wildlife Video Feed was fed to the layers of YOLO and animals / humans were trac
 Also, We know that deep learning is mainly dependent on Data. Due to lack of Animal categories in COCO, very strong detection was not achieved. [Imagenet](http://www.image-net.org/) has Animal categories and we differentiate it with COCO, in the Image Classification section. The best strategy would be to form a huge dataset of animals only, this will help us classify the breeds and types as well.
 
 We also tried YOLO on Thermal, Night Vision, IR and Normal Video Feeds and the differences were astonishing. Please check <b>1:00</b> of this [video](https://youtu.be/sCrg1bD2Lno) to get a gist.
+
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/ewd2.jpg">
 
 Several frames of object localization and classification are being portrayed in the following frames.
