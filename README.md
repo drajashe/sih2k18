@@ -12,10 +12,12 @@ Ministry of Environment, Forest and Climate Change
 <center>Team Members: </center>
 
 Amartya Ranjan Saikia (<b>TL</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar
+
 Assam Engineering College, Guwahati, India
 
 Team Mentors:
 Lakhya Jyoti Bora, Biju Pegu
+
 Gratia Technology Pvt. Ltd.
 
 
