@@ -32,6 +32,8 @@ We provided an end to end solution
 # DEEP LEARNING
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/deep.jpg">
 
+The Deep Learning section comprises of Object Detection, Image Classification, Audio Classification, Image Processing and Predictive Analysis. Each of the section are written down with detailed description.
+
 <h2> ➊ Object Detection </h2>
 
     1. Real Time
