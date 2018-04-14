@@ -64,6 +64,10 @@ Several frames of object localization and classification are being portrayed in 
 
 <h2> ➌ Audio Classification </h2>
 
+With Sensors in jungles we intended to classify audio to track and detect animals. We know that sound waves are frequency spectrums and each animal's sound has different range of frequencies. Or in other terms each animal has different frequency image, so these can be learned with the help of a Convolutional Neural network (CNN). The [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT) dataset from Harvard is a collection of environmental sounds and would serve the purpose for demonstration. A huge audio dataset of animals will be required for real life implementation. Google AI has a similar experiment and works on similar concepts - [BIRD SOUNDS](https://experiments.withgoogle.com/ai/bird-sounds/view/). The difference in frequencies can be viewed here:
+
+Here is the Sample [output](https://youtu.be/7nNgFzmIUsA).
+
 <h2> ➍ Image Processing </h2>
 
 Image processing algorithms to find roads and paths within jungles. We approached this in two ways:
