@@ -26,7 +26,13 @@ Gratia Technology Pvt. Ltd.
 # ABSTRACT
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/overview.JPG">
 
-We provided an end to end solution 
+We provided an affordable,scalable and state of the art end to end solution for tackling poaching and tracking animals/humans in protected areas.The whole idea comprises of three parts:
+
+    1. Android
+    2. Web
+    3. Intelligence (Deep Learning)
+    
+The idea is that, the rangers will have a light weight android app with them and they will be able to monitor/report activities in wildlife. The android app ui has a map, showing real time location of all the rangers in black and displays some other features like temperature, humidity etc. The ui also has a red button, so that the rangers can press at any time in case they detect/suspect any poaching activity.As soon as they press the red button, the longitude and latitude of the ranger pressing the button will be sent to the web server and the server will update each and every rangers app showing shortest path from each and every rangers location to thr location in DANGER. The shortest path will be found just like that of UBER. As you go through #Image Processing part of Deep Lerning, more information on this are penned down. 
 
 
 # END-TO-END
