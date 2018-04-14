@@ -32,10 +32,9 @@ We provided an affordable,scalable and state of the art end to end solution for 
     2. Web
     3. Intelligence (Deep Learning)
     
-The idea is that, the rangers will have a light weight android app with them and they will be able to monitor/report activities in wildlife. The android app ui has a map, showing real time location of all the rangers in black and displays some other features like temperature, humidity etc. The ui also has a red button, so that the rangers can press at any time in case they detect/suspect any poaching activity.As soon as they press the red button, the longitude and latitude of the ranger pressing the button will be sent to the web server and the server will update each and every rangers app showing shortest path from each and every rangers location to thr location in DANGER. The shortest path will be found just like that of UBER. As you go through #Image Processing part of Deep Lerning, more information on this are penned down. 
+The idea is that, the rangers will have a light weight android app with them and they will be able to monitor/report activities in wildlife. The android app ui has a map, showing real time location of all the rangers in black and displays some other features like temperature, humidity etc. The ui also has a red button, so that the rangers can press at any time in case they detect/suspect any poaching activity. As soon as they press the red button, the longitude and latitude of the ranger pressing the button will be sent to the web server and the server will update each and every rangers app showing shortest path from each and every rangers location to thr location in DANGER(in RED Color). The shortest path will be found just like that of UBER. As you go through #Image Processing part of Deep Lerning, more information on finding the shortest path is noted down. The whole Idea is large and involved many part, includeing Raspberry Pi, Camera configuration etc to meet the ends. The strategy to install them, connect them with sensors, monitoring station and the rangers in unique to us.
 
-
-# END-TO-END
+I personally worked on Deep Learning and I am giving you some of the insights into our project. The Android and Web parts are unique and are not discussed here.
 
 # DEEP LEARNING
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/deep.jpg">
