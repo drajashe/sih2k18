@@ -26,7 +26,7 @@ Gratia Technology Pvt. Ltd.
 # ABSTRACT
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/overview.JPG">
 
-We provided an affordable,scalable and state of the art end to end solution for tackling poaching and tracking animals/humans in protected areas.The whole idea comprises of three parts:
+We provided an affordable, scalable and state of the art end to end solution for tackling poaching and tracking animals/humans in protected areas.The whole idea comprises of three parts:
 
     1. Android
     2. Web
