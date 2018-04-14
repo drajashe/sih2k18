@@ -67,7 +67,10 @@ Classifying images of wildlife and having a bounding box is essential for detect
 
 As we can see:
 
-    1>
+    1> Correct Bounding Box, Incorrect Classification
+    2> Correct Bounding Box, Correct Classification
+    3> Correct Bounding Box, Incorrect Classification though image has camouflage
+    4> Correct Bounding Box, Correct Classification
 
 The second Output from Imagenet:
 
