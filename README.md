@@ -67,8 +67,10 @@ Several frames of object localization and classification are being portrayed in 
 <h2> ➍ Image Processing </h2>
 
 <h2> ➎ Predictive Analysis </h2>
+Machine Learning is learning from data right ? We can find patterns within data. In our case, we can collect data from past field study reports, journals/articles on the wildlife sanctuary/ National park or study reports by rangers/ngos etc. With this huge amount of data, we analyze them and predict some of the features. 
 
-
+Made a dummy data report of poaching - [[data.csv](https://github.com/SKKSaikia/sih2k18/blob/master/pred/kaz_train.csv)] and found the following outcomes via graphs.
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/pred/graph.jpg">
 
 # Conclusion
 
