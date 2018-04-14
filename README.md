@@ -65,6 +65,7 @@ Several frames of object localization and classification are being portrayed in 
 <h2> ➌ Audio Classification </h2>
 
 <h2> ➍ Image Processing </h2>
+
 Image processing algorithms to find roads and paths within jungles. We approached this in two ways:
 
     1) Image Processing
