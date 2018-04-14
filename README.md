@@ -70,3 +70,8 @@ Several frames of object localization and classification are being portrayed in 
 
 
 
+# Conclusion
+
+Thus we provided a low cost, state of the art solution, which can be implemented in the existing infrastructure of the wildlife sanctuaries / national parks. Thus integrating the hardware and software stacks we get a complete solution.
+
+
