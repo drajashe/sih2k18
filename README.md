@@ -117,4 +117,8 @@ Made a dummy data report of poaching - [[data.csv](https://github.com/SKKSaikia/
 
 Thus we provided a low cost, state of the art solution, which can be implemented in the existing infrastructure of the wildlife sanctuaries / national parks. Thus integrating the hardware and software stacks we get a complete solution.
 
+Thus we were able to bag the KPIT: Innovation Award in Smart India Hackathon 2018.
+
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/sih2k18.jpg">
+
 
