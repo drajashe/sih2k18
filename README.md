@@ -65,6 +65,13 @@ Several frames of object localization and classification are being portrayed in 
 <h2> ➌ Audio Classification </h2>
 
 <h2> ➍ Image Processing </h2>
+Image processing algorithms to find roads and paths within jungles. We approached this two way:
+
+    1) Image Processing
+    2) GPS Tracking
+    
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/satellite/img/sat_1.jpg">
+Image Processing Algorithms inspired from [DSTL Satellite Imagery feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection) and some own algorithms, were accounted to find paths within jungles, so that we can find the realistic shortest paths between the ranger and the danger/poacher location. Image processing can only account for paths which are visible from satellite, but what about the tunnels and hidden from above paths in jungles.
 
 <h2> ➎ Predictive Analysis </h2>
 Machine Learning is learning from data right ? We can find patterns within data. In our case, we can collect data from past field study reports, journals/articles on the wildlife sanctuary/ National park or study reports by rangers/ngos etc. With this huge amount of data, we analyze them and predict some of the features. 
