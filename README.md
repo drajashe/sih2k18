@@ -76,8 +76,8 @@ The second Output from Imagenet:
 
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/Image/output/ResNet50.JPG">
 
-As we can compare from both the COCO and ImageNet outputs,
-
+The ImageNet classification is more accurate for animals. Its classification output classes were different types of Tigers, or Elephants, but for COCO, the classifier was confused between a Tiger and a Bear for an image of Cheetah.
+As we can compare from both the COCO and ImageNet outputs, we can conclude that for more accuracy, we need a dataset comprising of  only animals.
 
 <h2> ➌ Audio Classification </h2>
 
