@@ -50,6 +50,7 @@ Several images of Guns, Poachers, Rangers were scraped from the internet and YOL
 
 Wildlife Video Feed was fed to the layers of YOLO and animals / humans were tracked with high confidence in the wildlife. Some of the frames are :
 
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/wildd.jpg">
 
 Also, We know that deep learning is mainly dependent on Data. Due to lack of Animal categories in COCO, very strong detection was not achieved. [Imagenet](http://www.image-net.org/) has Animal categories and we differentiate it with COCO, in the Image Classification section. The best strategy would be to form a huge dataset of animals only, this will help us classify the breeds and types as well.
 
