@@ -16,6 +16,7 @@ Amartya Ranjan Saikia (<b>TL</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Pr
 Assam Engineering College, Guwahati, India
 
 <b>Team Mentors:</b>
+
 Lakhya Jyoti Bora, Biju Pegu;
 Gratia Technology Pvt. Ltd.
 
