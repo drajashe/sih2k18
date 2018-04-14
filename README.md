@@ -30,6 +30,7 @@ We provided an end to end solution
 # END-TO-END
 
 # DEEP LEARNING
+<img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/deep.jpg">
 
 <h2> ➊ Object Detection </h2>
 
