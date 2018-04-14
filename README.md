@@ -7,7 +7,7 @@
 Team – <b>Dark_Forest</b>
 
 KPIT: Innovation Award Winner, Smart India Hackathon, 2018
-Ministry of Environment, Forest and Climate Change
+Ministry : Ministry of Environment, Forest and Climate Change
 
 <b>Team Members:</b>
 
