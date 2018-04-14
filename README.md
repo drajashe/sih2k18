@@ -60,7 +60,13 @@ Several frames of object localization and classification are being portrayed in 
 
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/thermal2.jpg">
 
+<h2> ➋ Image Classification </h2>
 
+<h2> ➌ Audio Classification </h2>
+
+<h2> ➍ Image Processing </h2>
+
+<h2> ➎ Predictive Analysis </h2>
 
 
 
