@@ -62,6 +62,10 @@ Several frames of object localization and classification are being portrayed in 
 
 <h2> ➋ Image Classification </h2>
 
+Classifying images of wildlife and having a bounding box is essential for detection. Used both ResNet50 and VGG16, trained on [ImageNet](https://github.com/SKKSaikia/sih2k18/blob/master/Image/Imagenet-script.py) and [COCO](https://github.com/SKKSaikia/sih2k18/blob/master/Image/COCO-script.py) datasets. Since COCO is a dataset based on real life objects, animal classification is a bit hard and inaccurate. It is able to detect & bound the animal, but not correctly classify it. The COCO outputs are:
+
+
+
 <h2> ➌ Audio Classification </h2>
 
 With Sensors in jungles we intended to classify audio to track and detect animals. We know that sound waves are frequency spectrums and each animal's sound has different range of frequencies. Or in other terms each animal has different frequency image, so these can be learned with the help of a Convolutional Neural network (CNN). The [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT) dataset from Harvard is a collection of environmental sounds and would serve the purpose for demonstration. A huge audio dataset of animals will be required for real life implementation. Google AI has a similar experiment and works on similar concepts - [BIRD SOUNDS](https://experiments.withgoogle.com/ai/bird-sounds/view/). The difference in frequencies of CAT vs DOG can be viewed here:
