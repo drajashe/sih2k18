@@ -60,6 +60,8 @@ Several frames of object localization and classification are being portrayed in 
 
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/thermal2.jpg">
 
+The bounding box frame classes are sent to the servers in real time in .json and .csv format. This is text sent to servers for classes detected.
+
 <h2> ➋ Image Classification </h2>
 
 Classifying images of wildlife and having a bounding box is essential for detection. Used both ResNet50 and VGG16, trained on [ImageNet](https://github.com/SKKSaikia/sih2k18/blob/master/Image/Imagenet-script.py) and [COCO](https://github.com/SKKSaikia/sih2k18/blob/master/Image/COCO-script.py) datasets. Since COCO is a dataset based on real life objects, animal classification is a bit hard and inaccurate. It is able to detect & bound the animal, but not correctly classify it. The COCO outputs are:
