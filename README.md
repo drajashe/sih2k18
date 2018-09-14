@@ -12,7 +12,7 @@ Ministry : Ministry of Environment, Forest and Climate Change
 
 <b>Team Members:</b>
 
-Amartya Ranjan Saikia (<b>TL</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar;
+Amartya Ranjan Saikia (<b>Team Lead</b>), Joy Dutta, Pulkit Singh, Sandeep Talukdar, Priyangshu Yogi, Tahera Aktar Laskar;
 Assam Engineering College, Guwahati, India
 
 <b>Team Mentors:</b>
@@ -26,15 +26,15 @@ Gratia Technology Pvt. Ltd.
 # ABSTRACT
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/overview.JPG">
 
-We provided an affordable, scalable and state of the art end to end solution for tackling poaching and tracking animals/humans in protected areas.The whole idea comprises of three parts:
+We provided an affordable, scalable and state of the art end-to-end solution for tackling poaching and tracking animals/humans in protected areas.The whole idea comprises of three parts:
 
     1. Android
     2. Web
     3. Intelligence (Deep Learning)
     
-The idea is that, the rangers will have a light weight android app with them and they will be able to monitor/report activities in wildlife. The android app ui has a map, showing real time location of all the rangers in black and displays some other features like temperature, humidity etc. The ui also has a red button, so that the rangers can press at any time in case they detect/suspect any poaching activity. As soon as they press the red button, the longitude and latitude of the ranger pressing the button will be sent to the web server and the server will update each and every rangers app showing shortest path from each and every rangers location to the location in DANGER(in RED Color). The shortest path will be found just like that of UBER. As you go through #Image Processing part of Deep Lerning, more information on finding the shortest path is noted down. The whole Idea is large and involved many part, includeing Raspberry Pi, Camera configuration etc to meet the ends. The strategy to install them, connect them with sensors, monitoring station and the rangers in unique to us.
+The idea of the solution is that, the rangers will have a light weight android app with them (in a low cost handheld device) and they will be able to monitor/report activities in the wildlife. The android app UI has a map, showing real time location of all the rangers in black and displays some other features like temperature, humidity etc. The UI also has a red button, so that the rangers can press at any time in case they detect/suspect any poaching activity. As soon as they press the red button, the longitude and latitude of the ranger pressing the button will be sent to the web server and the server will update each and every rangers app, showing shortest path from each and every ranger's location to the location in DANGER(in RED Color). The shortest path will be found within the hazzy and broken paths within jungles with algorithms just like that of implemented in UBER with some fine tunings. As you go through #Image Processing part of Deep Lerning in this repository, more information on finding the shortest path is being thrown light on. The whole Idea is large and involves many part, including HARDWARE set-ups such as - Raspberry Pi, Camera configuration etc to meet the ends of the solution in a real life scenario. The strategy to install them, connect them with sensors, monitoring station and the rangers is unique to us.
 
-I personally worked on Deep Learning and I am giving you some of the insights into our project. The Android and Web parts are unique and are not discussed here.
+I personally worked and leaded the Deep Learning parts of our solution and I am giving you some of the insights into our project solution. The Android and Web parts are unique and are not discussed here. The Connectivity and Integration of the standalone project parts [ Deep Learning, Android, Web, Hardware etc] was demonstrated in the Grand Finale to the esteemed judges with a cost effective business plan.
 
 # DEEP LEARNING
 <img src="https://github.com/SKKSaikia/sih2k18/blob/master/img/deep.jpg">
